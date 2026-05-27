@@ -1,0 +1,1 @@
+Este código fiz no meu primeiro estágio na area de cadastro onde eu preenchia manualmente e mensalmente procuração para serem renovadas e posteriormente assinadas em cartório. Uma atividade demorada e propensa a erros, nela vi a oportunidade de automatizar e poder aprender e fazer mais coisas no estágio.
